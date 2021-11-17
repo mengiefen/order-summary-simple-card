@@ -1,0 +1,110 @@
+* {
+  font-family: "Red Hat Display", sans-serif;
+}
+.container {
+  margin: 0;
+  box-sizing: border-box;
+}
+.inner-container {
+  margin: 20px;
+  background-color: hsl(225, 100%, 94%);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  background-image: url(/images/pattern-background-desktop.svg);
+  background-size: cover;
+  border-radius: 20px;
+}
+.content-box {
+  width: 280px;
+  height: 550px;
+  background-color: #fff;
+  border-radius: 20px;
+  -webkit-box-shadow: 1px 1px 8px 5px rgba(0, 0, 0, 0.36);
+  box-shadow: 1px 1px 8px 5px rgba(0, 0, 0, 0.2);
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.title-desc {
+    margin: 0 25px;
+    display: flex;
+    flex-direction: column;    
+  }
+.card-title {
+  font-size: 22px;
+  font-weight: 700;
+  margin-bottom: 10px;
+  text-align: center;
+}
+.advert-para {
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 1.5;
+  text-align: center;
+}
+.plan-col {
+  display: flex;
+  flex-direction: row;
+
+  align-items: center;
+  margin: 0 20px;
+}
+.music-icon {
+  flex: 1;
+}
+.plan {
+  flex: 2;
+  font-size: 13px;
+  font-weight: 700;
+}
+.change-plan {
+  flex: 1;  
+  color:hsl(245, 75%, 52%);
+  cursor: pointer;
+}
+.change-plan:hover{
+    color:hsl(223, 47%, 23%);
+}
+.illustrative-img {
+  width: 280px;
+  height: auto;
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+}
+
+.buttons {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.payment-btn {
+  width: 200px;
+  padding: 10px;
+  color: hsl(225, 100%, 98%);
+  background-color: hsl(245, 75%, 52%);
+  border-radius: 10px;
+  margin-bottom: 20px;
+  border-style: none;  
+  cursor: pointer;
+}
+.payment-btn:hover{
+    background-color: hsl(223, 47%, 23%);
+}
+.cancel-btn{
+    border-style: none;
+    background-color: #fff;
+    margin-bottom: 30px;
+    font-weight: 700;
+    font-size: 14px;
+    color:#111;
+    cursor: pointer;
+}
+.cancel-btn:hover{
+    color:hsl(245, 75%, 52%);
+}
+
+
+.
