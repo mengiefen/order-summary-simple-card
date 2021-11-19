@@ -99,7 +99,7 @@ Use this section to outline areas that you want to continue focusing on in futur
 
 - Website - [Mengstu Fentaw](https://mengiefen.github.io/order_summary-simple-card/)
 - Frontend Mentor - [@mengiefen](https://www.frontendmentor.io/profile/mengiefen)
-- Twitter - [@yMengistuFentaw](https://twitter.com/MengistuFentaw)
+- Twitter - [@MengistuFentaw](https://twitter.com/MengistuFentaw)
 
 **Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
 
