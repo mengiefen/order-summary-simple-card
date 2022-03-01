@@ -1,6 +1,12 @@
 * {
-  font-family: "Red Hat Display", sans-serif;
+  font-family: 'Red Hat Display', sans-serif;
   margin: 0;
+}
+
+body {
+  background: url('../img/pattern-background-desktop.svg') no-repeat top center;
+  background-size: contain;
+  background-color: #e0e8ff;
 }
 
 .container {
